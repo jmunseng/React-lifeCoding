@@ -13,7 +13,7 @@ class CreateContent extends Component {
                     e.target.title.value,
                     e.target.desc.value
                   )
-                alert('submitted')
+                // alert('submitted')
               }.bind(this)}
             > 
               <p>
